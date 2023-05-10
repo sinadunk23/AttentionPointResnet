@@ -2,14 +2,14 @@
 
 ![pic-network](docs/pipeline_attentionv2.png)
 
-This is the project webpage of our work AttentionPointResnet. AttentionPointResnet is a deep-learning approach designed for performing end-to-end rigid  point cloud registration for objects in a iterative fashion. Our paper can be found on [Arxiv](https://arxiv.org/abs/2003.13479) ([supplementary](https://arxiv.org/src/2003.13479v1/anc/supplementary.pdf)).
+This is the project webpage of our work AttentionPointResnet. AttentionPointResnet is a deep-learning approach designed for performing end-to-end rigid  point cloud registration for objects in a iterative fashion. Our paper can be found on [Arxiv](https://arxiv.org/abs/2003.13479).
 
 ```
-@inproceedings{yew2020-RPMNet, 
+@inproceedings{alborzi2023attenresnet, 
     title={RPM-Net: Robust Point Matching using Learned Features}, 
-    author={Yew, Zi Jian and Lee, Gim Hee}, 
-    booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2020} 
+    author={Alborzi, Yousef}, 
+    booktitle={},
+    year={2023} 
 }
 ```
 
