@@ -1,21 +1,9 @@
-# RPM-Net: Robust Point Matching using Learned Features
+# Attention PointResNet: End-to-end Point Cloud Registration With AttentionResidual Connections
 
 ![pic-network](docs/pipeline_attentionv2.png)
 
-This is the project webpage of our work AttentionPointResnet. AttentionPointResnet is a deep-learning approach designed for performing end-to-end rigid  point cloud registration for objects in a iterative fashion. Our paper can be found on [Arxiv](https://arxiv.org/abs/2003.13479).
+This is the project webpage of our work AttentionPointResnet. AttentionPointResnet is a deep-learning approach designed for performing end-to-end rigid  point cloud registration for objects in a iterative fashion. ```
 
-```
-@inproceedings{alborzi2023attenresnet, 
-    title={RPM-Net: Robust Point Matching using Learned Features}, 
-    author={Alborzi, Yousef}, 
-    booktitle={},
-    year={2023} 
-}
-```
-
-## Prerequisites
-
-See `requirements.txt` for required packages. Our source code was developed using Python 3.8 with PyTorch 1.8. Pytorch3d requires importance in installation.
 
 ## Training
 
